@@ -1,0 +1,23 @@
+{
+  "name": "sol-airdrop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kranthicodes/sol-airdrop.git"
+  },
+  "keywords": [],
+  "author": "Sai Kranthi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kranthicodes/sol-airdrop/issues"
+  },
+  "homepage": "https://github.com/kranthicodes/sol-airdrop#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.31.0"
+  }
+}
